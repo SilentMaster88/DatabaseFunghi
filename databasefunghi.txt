@@ -1,0 +1,68 @@
+1
+Fungo Porcino
+Boletus edulis
+Fungi
+Basidiomycota
+Agaricomycetes
+Boletales
+Boletaceae
+Boletus
+B. edulis
+Clima estivo-autunnale
+Brughiere,boschi di querce
+
+
+2
+Fungo Porcino Nero
+Boletus aereus
+Fungi
+Basidiomycota
+Basidiomycetes
+Boletales
+Boletaceae
+Boletus
+B. aereus
+Clima primaverile-autunnale
+Boschi di latifoglie,terreni sabbiosi
+
+
+3
+Fungo Porcino di Fiele
+Tylopilus felleus
+Fungi
+Basidiomycota
+Basidiomycetes
+Boletales
+Boletaceae
+Tylopilus
+T. felleus
+Clima primaverile-autunnale
+Boschi di latifoglie e conifere
+
+
+4
+Fungo Porcino Rosso
+Boletus pinophilus
+Fungi
+Basidiomycota
+Basidiomycetes
+Boletales
+Boletaceae
+Boletus
+B. pinophilus
+Clima primaverile-autunnale
+Boschi di latifoglie e conifere
+
+
+5
+Fungo Porcino Estivo
+Boletus aestivalis
+Fungi
+Basidiomycota
+Basidiomycetes
+Boletales
+Boletaceae
+Boletus
+B. aestivalis
+Clima estivo
+Boschi di castagno e querce
